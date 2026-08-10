@@ -14,6 +14,12 @@ Install dependencies:
 pip install requests beautifulsoup4
 ```
 
+Or, on Ubuntu:
+
+```bash
+sudo apt-get install python3-bs4
+```
+
 ## Usage
 
 ```
